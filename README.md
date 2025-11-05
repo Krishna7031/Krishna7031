@@ -8,8 +8,6 @@
 
 *Building scalable, secure, production-grade infrastructure that powers enterprise applications*
 
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-krishna70310)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krishna7031)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishna70310@gmail.com)
