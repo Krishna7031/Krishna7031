@@ -1,6 +1,5 @@
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" >
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0503b87.gif" width="100">
 
 # **SAI KRISHNA**   
 ### DevOps Engineer | Cloud Architect
