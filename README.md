@@ -36,11 +36,17 @@ I'm constantly learning, building, and sharing knowledge. Check out my repositor
 ## 🛠️ My Toolkit
 
 **Cloud:** AWS | GCP 
+
 **Container Management:** Docker | Kubernetes | Helm 
+
 **Infrastructure:** Terraform | Ansible  
+
 **CI/CD:** Jenkins | GitHub Actions | ArgoCD  
+
 **Monitoring:** Prometheus | Grafana
+
 **Security:** SonarQube | Trivy 
+
 **Scripting:** Bash | Python | YAML  
 
 ---
