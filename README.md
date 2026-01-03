@@ -1,6 +1,3 @@
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" >
-<div align="center">
-
 # **SAI KRISHNA**   
 ### DevOps Engineer | Cloud Architect
 
