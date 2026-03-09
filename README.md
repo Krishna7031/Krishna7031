@@ -48,14 +48,6 @@ I'm constantly learning, building, and sharing knowledge. Check out my repositor
 
 ---
 
-## 📍 Open To
-
-🔍 **DevOps Engineer** & **Cloud Engineer** roles — full-time, contract, or consulting  
-💡 Infrastructure challenges that need solving  
-🤝 Collaborating with teams that care about quality  
-
----
-
 ## 💬 Let's Talk
 
 Interested in working together? I'd love to chat about your infrastructure needs.
